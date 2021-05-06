@@ -1,8 +1,8 @@
-import './App.css';
+import './css/min/style.css'
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <p>HELLO</p>
     </div>
   );
