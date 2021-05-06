@@ -1706,7 +1706,6 @@ function App() {
 
   return (
     <div>
-<<<<<<< HEAD
       <p>{data.lat}</p>
 =======
       
