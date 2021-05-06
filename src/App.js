@@ -1707,9 +1707,6 @@ function App() {
   return (
     <div>
       <p>{data.lat}</p>
-=======
-      
->>>>>>> 1aa0089d5c830e5ac862a23dcbd41d1dfdeeefdd
     </div>
   );
 }
