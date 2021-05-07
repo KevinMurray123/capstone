@@ -1,5 +1,7 @@
 import './css/min/style.css'
 import React, { useState } from 'react';
+import Header from './components/Header'
+import img from './content/weasle.png';
 
 
 const data={
@@ -1706,6 +1708,7 @@ function App() {
 
   return (
     <div className="body">
+      <Header src={img}/>
       <p>{data.lat}</p>
     </div>
   );
