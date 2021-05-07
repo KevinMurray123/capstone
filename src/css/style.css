@@ -1,4 +1,11 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
 .body {
-  background-image: url("/src/content/background.jpg") no-repeat center center fixed;
+  background-image: url("/src/content/background.jpg");
+  height: 100vh;
+  width: 100vw;
 }
 /*# sourceMappingURL=style.css.map */
