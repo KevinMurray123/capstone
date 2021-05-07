@@ -1705,7 +1705,7 @@ function App() {
   console.log(data.lat);
 
   return (
-    <div>
+    <div className="body">
       <p>{data.lat}</p>
     </div>
   );
