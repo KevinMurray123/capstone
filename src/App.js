@@ -1,6 +1,6 @@
 import './css/min/style.css'
 import React, { useState } from 'react';
-import Header from './components/Header'
+import Header from './components/Header.jsx'
 import img from './content/weasle.png';
 
 
